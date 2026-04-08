@@ -91,6 +91,11 @@ The environment simulates consequences:
 
 ---
 
+## Run
+
+```bash
+python inference.py
+
 ##  Setup Instructions
 
 Install dependencies:
