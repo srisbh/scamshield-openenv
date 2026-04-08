@@ -1,0 +1,213 @@
+[
+  {
+    "message": "Go until jurong point, crazy.. Available only in bugis n great world la e buffet...",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+    "message": "Ok lar... Joking wif u oni...",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+    "message": "Free entry in 2 a wkly comp to win FA Cup final tkts...",
+    "metadata": {
+      "sender": "unknown",
+      "platform": "sms",
+      "urgency": "high"
+    },
+    "label": "scam"
+  },
+  {
+    "message": "U dun say so early hor... U c already then say...",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+    "message": "Nah I don't think he goes to usf, he lives around here though",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+    "message": "FreeMsg Hey there darling it's been 3 week's now and no word back!",
+    "metadata": {
+      "sender": "unknown",
+      "platform": "sms",
+      "urgency": "high"
+    },
+    "label": "scam"
+  },
+  {
+    "message": "Even my brother is not like to speak with me.",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+    "message": "WINNER!! As a valued network customer you have been selected...",
+    "metadata": {
+      "sender": "unknown",
+      "platform": "sms",
+      "urgency": "high"
+    },
+    "label": "scam"
+  },
+  {
+    "message": "Had your mobile 11 months or more? U R entitled to Update...",
+    "metadata": {
+      "sender": "unknown",
+      "platform": "sms",
+      "urgency": "high"
+    },
+    "label": "scam"
+  },
+  {
+    "message": "I'm gonna be home soon and i don't want to talk about this stuff anymore tonight",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+    "message": "SIX chances to win CASH! From 100 to 20,000 pounds...",
+    "metadata": {
+      "sender": "unknown",
+      "platform": "sms",
+      "urgency": "high"
+    },
+    "label": "scam"
+  },
+  {
+    "message": "URGENT! You have won a 1 week FREE membership...",
+    "metadata": {
+      "sender": "unknown",
+      "platform": "sms",
+      "urgency": "high"
+    },
+    "label": "scam"
+  },
+  {
+    "message": "I've been searching for the right words to thank you...",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+    "message": "XXXMobileMovieClub: To use your credit, click the WAP link...",
+    "metadata": {
+      "sender": "unknown",
+      "platform": "sms",
+      "urgency": "high"
+    },
+    "label": "scam"
+  },
+  {
+    "message": "Oh k...i'm watching here",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+    "message": "England v Macedonia - dont miss the goals/team news...",
+    "metadata": {
+      "sender": "unknown",
+      "platform": "sms",
+      "urgency": "high"
+    },
+    "label": "scam"
+  },
+  {
+    "message": "Is that seriously how you spell his name?",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+    "message": "Thanks for your subscription to Ringtone UK your mobile will be charged...",
+    "metadata": {
+      "sender": "unknown",
+      "platform": "sms",
+      "urgency": "high"
+    },
+    "label": "scam"
+  },
+  {
+    "message": "Yup... Ok i go home look at the timings then i msg ü again",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+    "message": "Oops, I'll let you know when my roommate's done",
+    "metadata": {
+      "sender": "friend",
+      "platform": "sms",
+      "urgency": "low"
+    },
+    "label": "legit"
+  },
+  {
+  "message": "Your UPI account will be blocked. Verify now.",
+  "metadata": {"sender": "upi_alert", "platform": "sms", "urgency": "high"},
+  "label": "scam"
+  },
+  {
+  "message": "Hey I lost my phone, send me ₹2000 urgently I’ll return later.",
+  "metadata": {"sender": "known_contact", "platform": "whatsapp", "urgency": "high"},
+  "label": "scam"
+},
+{
+  "message": "Dear customer, share OTP to complete KYC verification.",
+  "metadata": {"sender": "bank", "platform": "sms", "urgency": "high"},
+  "label": "scam"
+},
+{
+  "message": "Your Swiggy order has been delivered.",
+  "metadata": {"sender": "swiggy", "platform": "app", "urgency": "low"},
+  "label": "legit"
+},
+{
+  "message": "Click here to track your delivery: bit.ly/xyz",
+  "metadata": {"sender": "unknown", "platform": "sms", "urgency": "medium"},
+  "label": "scam"
+},
+{
+  "message": "Your OTP for login is 456789. Do not share.",
+  "metadata": {"sender": "bank", "platform": "sms", "urgency": "high"},
+  "label": "legit"
+}
+
+]

@@ -1,0 +1,8 @@
+name: scamshield-openenv
+description: Real-world scam detection and response RL environment
+version: 1.0
+
+tasks:
+  - basic_detection
+  - contextual_analysis
+  - full_defense
