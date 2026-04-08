@@ -2,6 +2,7 @@
 
 ##  Overview
 
+This environment simulates real-world scam detection using structured decision-making and reinforcement learning-style reward evaluation.
 ScamShield-OpenEnv is a real-world reinforcement learning (RL) environment designed to train and evaluate AI agents for scam detection and safe decision-making.
 
 The environment simulates realistic scam scenarios such as OTP fraud, UPI scams, phishing links, job scams, and social engineering attacks.
